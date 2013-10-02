@@ -1,5 +1,5 @@
-PierinPIC18
+Tuner
 ===========
 
-PierinPIC18 is an unofficial MPLABX base project for the PierinPIC18 
-development board by Sangon (www.sangon.it)
+Pitch recognition firmware for PierinPIC18 development board 
+(www.sangon.it)
