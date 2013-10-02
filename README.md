@@ -1,4 +1,4 @@
-PierinPIC18
+Tuner
 ===========
 
-Base MPLABX project for PierinPIC18 development board
+Pitch recognition firmware for PierinPIC18
